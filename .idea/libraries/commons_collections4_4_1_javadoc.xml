@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-collections4-4.1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-symbol-solver-core-0.6.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaparser-core-3.4.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
