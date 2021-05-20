@@ -11,7 +11,7 @@ public class Main_AddInt {
             if(i == 16) {
                 continue;
             }
-            String predPath = "/home/linyu/oreo222/oreo/bcb_predictions/predictions" + i + "/";
+            String predPath = "/home/linyu/oreo222/oreo/bcb_prediction/predictions" + i + "/";
             String srcPath = "/home/linyu/BigCloneEval/ijadataset/bcb_reduced/" + i + "/";
 //            String predPath = "/home/riddleli/bcb_test/predictions" + i;
 //            String srcPath = "/home/riddleli/testdir/";
