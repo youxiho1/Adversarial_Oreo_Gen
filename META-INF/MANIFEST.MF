@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Main_AddInt
+Class-Path: commons-collections4-4.1.jar commons-compress-1.15.jar commo
+ ns-io-2.6.jar commons-lang3-3.1.jar java-symbol-solver-core-0.6.1-SNAPS
+ HOT.jar javaparser-core-3.4.5-SNAPSHOT.jar
+

@@ -37,7 +37,7 @@ public class FileUtils {
             fileCount = 1;
         }
         count++;
-        if(count > 2) {
+        if(count > 100000) {
             count = 1;
             fileCount++;
         }
