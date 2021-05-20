@@ -23,7 +23,7 @@ public class Main_AddInt {
         //deal with one specific subdir
         List<File> list = DirUtils.txtFind(predPath);
         for (File file : list) {
-            if(file.getName().contains("type3")) {
+            if(file.getName().contains("type_3") ||file.getName().contains("type3")) {
                 System.out.println(file.getName());
                 try {
                     Scanner scanner = new Scanner(file);
